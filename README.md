@@ -1,5 +1,7 @@
 # Delivery fee calculator
 
+![alt text](https://github.com/nuipawarit/delivery-fee-calculator/blob/master/images/image-1.png?raw=true)
+
 ### Starting the application
 
 **1.** Run the development server by running the following command:
