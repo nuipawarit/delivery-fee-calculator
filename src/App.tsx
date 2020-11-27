@@ -33,7 +33,7 @@ function App() {
         return null;
       }
 
-      sum = sum + route.cost;
+      sum = +sum + route.cost;
     }
 
     return sum;
