@@ -76,7 +76,7 @@ const RouteCostTable = forwardRef<MaterialTable<RouteCost>, Props>(
         }}
         icons={icons}
         options={options}
-        title="Route costs"
+        title="Delivery costs"
       />
     );
   }
